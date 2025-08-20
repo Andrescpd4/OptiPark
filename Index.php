@@ -45,7 +45,7 @@
 			elseif($pg==1005)
 				include("views/precios.php");
 			else
-				echo "<h2>404 - Pagina no existe.</h2>"
+				echo "<h2>404 - Pagina no existe. :v </h2>"
 		?>
 	</section>
 	<footer>
